@@ -1,0 +1,21 @@
+var imgn_pos_alto = {
+"type": "FeatureCollection",
+"name": "imgn_pos_alto",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "categoria": "Imagen Positiva GObernador: Alto","PROV": 50, "NOM_DEPTO": "CAPITAL", "DEPTO": 7, "FRAC": 10, "RADIO": 22, "PTO_MUESTR": "6", "imagen pos": 75.0 }, "geometry": { "type": "Point", "coordinates": [ -68.848396231324969, -32.875959786787028 ] } },
+{ "type": "Feature", "properties": { "categoria": "Imagen Positiva GObernador: Alto","PROV": 50, "NOM_DEPTO": "CAPITAL", "DEPTO": 7, "FRAC": 5, "RADIO": 12, "PTO_MUESTR": "2", "imagen pos": 75.0 }, "geometry": { "type": "Point", "coordinates": [ -68.840971669045118, -32.886355211036175 ] } },
+{ "type": "Feature", "properties": { "categoria": "Imagen Positiva GObernador: Alto","PROV": 50, "NOM_DEPTO": "GODOY CRUZ", "DEPTO": 21, "FRAC": 6, "RADIO": 4, "PTO_MUESTR": "13", "imagen pos": 75.0 }, "geometry": { "type": "Point", "coordinates": [ -68.867056897959131, -32.949082305778191 ] } },
+{ "type": "Feature", "properties": { "categoria": "Imagen Positiva GObernador: Alto","PROV": 50, "NOM_DEPTO": "GUAYMALLEN", "DEPTO": 28, "FRAC": 2, "RADIO": 14, "PTO_MUESTR": "30", "imagen pos": 75.0 }, "geometry": { "type": "Point", "coordinates": [ -68.791234306558891, -32.883531016842213 ] } },
+{ "type": "Feature", "properties": { "categoria": "Imagen Positiva GObernador: Alto","PROV": 50, "NOM_DEPTO": "GUAYMALLEN", "DEPTO": 28, "FRAC": 2, "RADIO": 4, "PTO_MUESTR": "20", "imagen pos": 75.0 }, "geometry": { "type": "Point", "coordinates": [ -68.804234954741929, -32.885013284720074 ] } },
+{ "type": "Feature", "properties": { "categoria": "Imagen Positiva GObernador: Alto","PROV": 50, "NOM_DEPTO": "GUAYMALLEN", "DEPTO": 28, "FRAC": 19, "RADIO": 7, "PTO_MUESTR": "29", "imagen pos": 75.0 }, "geometry": { "type": "Point", "coordinates": [ -68.819635281884032, -32.890751887755265 ] } },
+{ "type": "Feature", "properties": { "categoria": "Imagen Positiva GObernador: Alto","PROV": 50, "NOM_DEPTO": "GUAYMALLEN", "DEPTO": 28, "FRAC": 9, "RADIO": 12, "PTO_MUESTR": "25", "imagen pos": 75.0 }, "geometry": { "type": "Point", "coordinates": [ -68.739031726964171, -32.920017347115348 ] } },
+{ "type": "Feature", "properties": { "categoria": "Imagen Positiva GObernador: Alto","PROV": 50, "NOM_DEPTO": "LAS HERAS", "DEPTO": 49, "FRAC": 2, "RADIO": 14, "PTO_MUESTR": "30", "imagen pos": 75.0 }, "geometry": { "type": "Point", "coordinates": [ -68.818759632049492, -32.822405502235732 ] } },
+{ "type": "Feature", "properties": { "categoria": "Imagen Positiva GObernador: Alto","PROV": 50, "NOM_DEPTO": "LAS HERAS", "DEPTO": 49, "FRAC": 3, "RADIO": 3, "PTO_MUESTR": "31", "imagen pos": 75.0 }, "geometry": { "type": "Point", "coordinates": [ -68.831481094986387, -32.83642380596617 ] } },
+{ "type": "Feature", "properties": { "categoria": "Imagen Positiva GObernador: Alto","PROV": 50, "NOM_DEPTO": "LAS HERAS", "DEPTO": 49, "FRAC": 11, "RADIO": 13, "PTO_MUESTR": "36", "imagen pos": 75.0 }, "geometry": { "type": "Point", "coordinates": [ -68.824130759748783, -32.853382012780116 ] } },
+{ "type": "Feature", "properties": { "categoria": "Imagen Positiva GObernador: Alto","PROV": 50, "NOM_DEPTO": "LAS HERAS", "DEPTO": 49, "FRAC": 3, "RADIO": 4, "PTO_MUESTR": "32", "imagen pos": 75.0 }, "geometry": { "type": "Point", "coordinates": [ -69.344702119550519, -32.588274437027167 ] } },
+{ "type": "Feature", "properties": { "categoria": "Imagen Positiva GObernador: Alto","PROV": 50, "NOM_DEPTO": "LUJAN DE CUYO", "DEPTO": 63, "FRAC": 10, "RADIO": 5, "PTO_MUESTR": "45", "imagen pos": 75.0 }, "geometry": { "type": "Point", "coordinates": [ -68.879358942176168, -32.991246392302621 ] } },
+{ "type": "Feature", "properties": { "categoria": "Imagen Positiva GObernador: Alto","PROV": 50, "NOM_DEPTO": "LUJAN DE CUYO", "DEPTO": 63, "FRAC": 8, "RADIO": 12, "PTO_MUESTR": "43", "imagen pos": 75.0 }, "geometry": { "type": "Point", "coordinates": [ -69.329871744552307, -33.013575435404931 ] } },
+{ "type": "Feature", "properties": { "categoria": "Imagen Positiva GObernador: Alto","PROV": 50, "NOM_DEPTO": "MAIPU", "DEPTO": 70, "FRAC": 9, "RADIO": 6, "PTO_MUESTR": "48", "imagen pos": 75.0 }, "geometry": { "type": "Point", "coordinates": [ -68.822452544563717, -32.966577960366585 ] } }
+]
+}
